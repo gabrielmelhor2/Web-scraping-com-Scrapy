@@ -31,4 +31,6 @@ pip install -r requirements.txt
 
 ### Executando o projeto
 
+```python
 scrapy crawl series
+```
