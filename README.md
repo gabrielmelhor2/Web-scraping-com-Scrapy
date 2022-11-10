@@ -2,6 +2,10 @@
 
 Projeto construída com Flask e Scrapy. É baseado em um banco de dados SQLITE.
 
+# O que o projeto faz
+
+Faz um scraping das 250 series mais populares
+
 ## Configurações prévias
 
 Para executar esse projeto, é necessário que seu sistema contenha as seguintes instalações:
