@@ -4,7 +4,7 @@ Projeto construída com Scrapy. É baseado em um banco de dados SQLITE.
 
 # O que o projeto faz
 
-Faz um scraping das 250 series mais populares
+Faz um scraping das 250 series mais populares do site IMDb
 
 ## Configurações prévias
 
