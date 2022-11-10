@@ -1,6 +1,6 @@
-# Web-scraping-com-Flask-Scrapy
+# Web-scraping-com-Scrapy
 
-Projeto construída com Flask e Scrapy. É baseado em um banco de dados SQLITE.
+Projeto construída com Scrapy. É baseado em um banco de dados SQLITE.
 
 # O que o projeto faz
 
@@ -24,7 +24,7 @@ De preferência a versão mais recente também.
 
 ```shell
 git clone https://github.com/gabrielmelhor2/Web-scraping-com-Scrapy.git
-cd rest-api-com-Flask
+cd Web-scraping-com-Scrapy
 ```
 
 ### Instale as dependências
